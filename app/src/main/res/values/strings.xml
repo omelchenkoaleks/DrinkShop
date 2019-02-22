@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Drink Shop</string>
+    <string name="app_name">DrinkShop</string>
+    <string name="FACEBOOK_APP_ID">2324740147771095</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">31bf92d479420e075685b0c443e5c130</string>
+
+    <string name="continue_text">Continue</string>
+    <string name="name_et">Name</string>
+    <string name="address_et">Address</string>
+    <string name="birthdate_et">yyyy-MM-dd</string>
 </resources>
